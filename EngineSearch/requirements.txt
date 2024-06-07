@@ -1,0 +1,12 @@
+transformers
+python-dotenv
+langchain
+sentence-transformers
+chromadb
+streamlit
+openai
+dotenv
+torch
+tensorflow
+PIL
+io
